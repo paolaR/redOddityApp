@@ -1,0 +1,42 @@
+{
+    "nome": "JavaScript Developer",
+    "logoCorso": "http://www.redoddity.it/wp-content/uploads/2012/12/javascript_quadrato.jpg",
+    "numeroPartecipanti": "15",
+    "obiettivoGenerale": "Imparare a progettare applicazioni web interattive",
+    "costo": "La partecipazione al corso è interamente gratuita. Il corso è promosso e finanziato dall’Unione Europea – Fondo Sociale Europeo, dal Ministero del Lavoro e delle Politiche Sociali e dalla Provincia autonoma di Bolzano.",
+    "privilegi": [
+        "attrezzature didattiche",
+        "connessione wi-fi",
+        "buono pasto"
+    ],
+    "certificazioniRilasciate": [
+        "Attestato FSE",
+        "Cambridge ESOL Examination"
+    ],
+    "linkBrochure": "http://www.redoddity.it/wp-content/uploads/2012/12/Flyer-JavaScript-Developer.pdf",
+    "durataInOre": {
+        "lezione": "832",
+        "stage": "480",
+        "totale": "1312"
+    },
+    "dataInizio": "30 settembre 2013",
+    "dataFine": "13 giugno 2014",
+    "tutor": [
+        {
+            "nome": "Erika Mansanti",
+            "email": "erika.mansasnti@redoddity.it"
+        },
+        {
+            "nome": "Francesca Beordo",
+            "email": "francesca.beordo@redoddity.com"
+        }
+    ],
+    "logoRedOddity": "http://www.redoddity.it/wp-content/themes/redoddity/images/logo.gif",
+    "contatti": {
+        "nome": "Red Oddity Srl",
+        "indirizzo": "via Siemens 19 - 39100 Bolzano - Italy",
+        "tel": "0471 568277",
+        "fax": "0471 568241",
+        "email": "info@redoddity.it"
+    }
+}

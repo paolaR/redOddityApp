@@ -1,0 +1,15 @@
+div[class^="ui-content"] img{
+	margin: 20px;
+	width: 150px;
+	height: auto;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+	float: left;
+}
+
+h3{
+	font-size: 15px;
+}

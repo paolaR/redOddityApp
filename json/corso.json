@@ -1,0 +1,49 @@
+{
+    "icon": [
+        "people.png",
+        "aim.png",
+        "cost.png",
+        "tools.png",
+        "date.png",
+        "tutor.png",
+        "contatti.png"
+    ],
+   
+    "numeroPartecipanti": "15 partecipanti",
+    
+    "obiettivoGenerale": "Imparare a progettare applicazioni web interattive",
+    
+    "costo": "Il corso è promosso e finanziato dall’Unione Europea – Fondo Sociale Europeo, dal Ministero del Lavoro e delle Politiche Sociali e dalla Provincia autonoma di Bolzano.",
+    
+    "privilegi": [
+        "attrezzature didattiche",
+        "connessione wi-fi",
+        "buono pasto",
+        "Attestato FSE",
+        "Cambridge ESOL Examination"
+    ],
+    
+    "durataInOre": {
+        "lezione": "832h",
+        "stage": "480h",
+        "totale": "1312"
+    },
+    "dataInizio": "30 settembre 2013",
+    "dataFine": "13 giugno 2014",
+    
+    "tutor": [
+        {
+            "nome": "Erika Mansanti",
+            "email": "erika.mansasnti@redoddity.it"
+        },
+        {
+            "nome": "Francesca Beordo",
+            "email": "francesca.beordo@redoddity.com"
+        }
+    ],
+   
+    "contatti": {
+        "tel": "0471 568277",
+        "email": "info@redoddity.it"
+    }
+}

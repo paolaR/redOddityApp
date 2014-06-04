@@ -1,0 +1,431 @@
+[
+    {
+        "nome": "OS Introduction & JetBrains IDE",
+        "descrizione": "Modulo che prevede l'installazione di ubuntu, la configurazione di phpmyadmin e apache, e l'utilizzo dei principali comandi del terminale. Studio generale delle espressioni regolari e guida all'amministrazione di rete.",
+        "docenti": [
+            {
+                "nome": "Eugenia",
+                "cognome": "Franzioni"
+            }
+        ],
+        "numeroOre": 40,
+        "giorni": [
+            "2013-09-30",
+            "2013-10-01",
+            "2013-10-02",
+            "2013-10-03",
+            "2013-10-04"
+        ]
+    },
+
+    {
+        "nome": "HTML5 & CSS3",
+        "descrizione": "Modulo che prevede le principali direttive e strutture, necessarie alla creazione di pagine web statiche grazie all'utilizzo di HTML5 e CSS3.",
+        "docenti": [
+            {
+                "nome": "Claudio",
+                "cognome": "Brocco"
+            },
+            {
+                "nome": "Ivan",
+                "cognome": "Ferrazzi"
+            }
+        ],
+        "numeroOre": 112,
+        "giorni": [
+            "2013-10-07",
+            "2013-10-08",
+            "2013-10-09",
+            "2013-10-10",
+            "2013-10-11",
+            "2013-10-14",
+            "2013-10-15",
+            "2013-10-16",
+            "2013-10-17",
+            "2013-10-18",
+            "2013-10-21",
+            "2013-10-22",
+            "2013-10-23",
+            "2013-10-24"
+        ]
+    },
+
+    {
+        "nome": "Il linguaggio JavaScript",
+        "descrizione": "Modulo in cui vengono strutturate tutte le basi necessarie ad interagire dinamicamente col DOM, grazie all'utilizzo di Javascript e alle sue relative librerie.",
+        "docenti": [
+            {
+                "nome": "Ivan",
+                "cognome": "Ferrazzi"
+            },
+            {
+                "nome": "Consalvo",
+                "cognome": "Cattuto"
+            }
+        ],
+        "numeroOre": 40,
+        "giorni": [
+            "2013-10-25",
+            "2013-10-28",
+            "2013-10-29",
+            "2013-10-30",
+            "2013-10-31"
+        ]
+    },
+
+    {
+        "nome": "Web application with JavaScript",
+        "descrizione": "Modulo che mira a guardare Javascript nello specifico, grazie al quale sara possibile realizzare delle web applications user friendly.",
+        "docenti": [
+            {
+                "nome": "Consalvo",
+                "cognome": "Cattuto"
+            },
+            {
+                "nome": "Thomas",
+                "cognome": "Baggio"
+            },
+            {
+                "nome": "Michele",
+                "cognome": "Riello"
+            }
+        ],
+        "numeroOre": 120,
+        "giorni": [
+            "2013-11-04",
+            "2013-11-05",
+            "2013-11-06",
+            "2013-11-11",
+            "2013-11-12",
+            "2013-11-13",
+            "2013-11-18",
+            "2013-11-19",
+            "2013-11-20",
+            "2013-11-25",
+            "2013-11-26",
+            "2013-11-27",
+            "2013-12-02",
+            "2013-12-03",
+            "2013-12-04"
+        ]
+    },
+
+    {
+        "nome": "English basic & advanced",
+        "descrizione": "Modulo di formazione, suddiviso in gradi di difficoltà, che preparerà i candidati a sostenere la certificazione ufficiale di inglese.",
+        "docenti": [
+            {
+                "nome": "Consalvo",
+                "cognome": "Cattuto"
+            }
+        ],
+        "numeroOre": 24,
+        "giorni": [
+            "2013-11-07",
+            "2013-11-08",
+            "2013-11-14",
+            "2013-11-15",
+            "2013-11-21",
+            "2013-11-22",
+            "2013-11-28",
+            "2013-11-29"
+        ]
+    },
+
+    {
+        "nome": "Job Orientation",
+        "descrizione": "Modulo che dovrà servire ad aiutare i candidati a redigere il proprio curriculum vitae.",
+        "docenti": [
+            {
+                "nome": "Francesca",
+                "cognome": "Beordo"
+            },
+            {
+                "nome": "Fabio",
+                "cognome": "Selle"
+            }
+        ],
+        "numeroOre": 8,
+        "giorni": [
+            "2013-09-21",
+            "2014-06-13"
+        ]
+    },
+
+    {
+        "nome": "Node.js & JavaScript integration",
+        "descrizione": "Utilizzo di Node.js per lo studio di numerose tipologie di sviluppo (functional programming, socket programming, gestione delle eccezioni).",
+        "docenti": [
+            {
+                "nome": "Christian Anton",
+                "cognome": "Mair"
+            }
+        ],
+        "numeroOre": 40,
+        "giorni": [
+            "2013-12-05",
+            "2013-12-06",
+            "2013-12-09",
+            "2013-12-10",
+            "2013-12-11"
+        ]
+    },
+
+    {
+        "nome": "Job orientation & testimonial",
+        "descrizione": "Modulo di pochi giorni che ha come obbiettivo quello di preparare i candidati ad un colloquio di lavoro, prevedendo delle simulazioni tenute da una psicologa del lavoro.",
+        "docenti": [
+            {
+                "nome": "Elena",
+                "cognome": "Gaiffi"
+            },
+            {
+                "nome": "Roberto",
+                "cognome": "Endrizzi"
+            }
+        ],
+        "numeroOre": 24,
+        "giorni": [
+            "2013-12-12",
+            "2013-12-13",
+            "2014-01-13"
+        ]
+    },
+
+    {
+        "nome": "MongoDB",
+        "descrizione": "Con MongoDB, si è introdotto il concetto di database nosql e si sono svolti alcuni esempi di database non relazionali, utilizzando il terminale per la creazione di tabelle e campi.",
+        "docenti": [
+            {
+                "nome": "Christian Anton",
+                "cognome": "Mair"
+            }
+        ],
+        "numeroOre": 40,
+        "giorni": [
+            "2013-12-16",
+            "2013-12-17",
+            "2013-12-18",
+            "2013-12-19",
+            "2013-12-20"
+        ]
+    },
+
+    {
+        "nome": "PHP & AJAX",
+        "descrizione": "Modulo che darà le basi di PHP per operare su array, date, classi, files. Utilizzo di Ajax e di strutture XML per gestire i template html.",
+        "docenti": [
+            {
+                "nome": "Consalvo",
+                "cognome": "Cattuto"
+            },
+            {
+                "nome": "Ivan",
+                "cognome": "Ferrazzi"
+            },
+            {
+                "nome": "Thomas",
+                "cognome": "Baggio"
+            }
+        ],
+        "numeroOre": 120,
+        "giorni": [
+            "2014-01-07",
+            "2014-01-08",
+            "2014-01-09",
+            "2014-01-10",
+            "2014-01-14",
+            "2014-01-15",
+            "2014-01-16",
+            "2014-01-17",
+            "2014-01-20",
+            "2014-01-21",
+            "2014-01-22",
+            "2014-01-23",
+            "2014-01-24",
+            "2014-01-27",
+            "2014-01-28"
+        ]
+    },
+
+    {
+        "nome": "PHP & SQL",
+        "descrizione": "Modulo che introduce i concetti di databases relazionali e i metodi di connessione dei database Mysql a PHP.",
+        "docenti": [
+            {
+                "nome": "Thomas",
+                "cognome": "Baggio"
+            },
+            {
+                "nome": "Ivan",
+                "cognome": "Ferrazzi"
+            }
+        ],
+        "numeroOre": 72,
+        "giorni": [
+            "2014-01-29",
+            "2014-01-30",
+            "2014-01-31",
+            "2014-02-03",
+            "2014-02-04",
+            "2014-02-05",
+            "2014-02-06",
+            "2014-02-07",
+            "2014-02-10"
+        ]
+    },
+
+    {
+        "nome": "Responsive Webdesign & UX",
+        "descrizione": "Introdotto il concetto di siti responsivi, adattivi e nativi. L'obbiettivo è quello di sensibilizzare i candidati allo sviluppo di un applicazione web utilizzabile da molteplici dispositivi",
+        "docenti": [
+            {
+                "nome": "Luca",
+                "cognome": "Mascaro"
+            },
+            {
+                "nome": "Matteo",
+                "cognome": "Balocco"
+            }
+        ],
+        "numeroOre": 32,
+        "giorni": [
+            "2014-02-11",
+            "2014-02-12",
+            "2014-02-13",
+            "2014-02-14"
+        ]
+    },
+
+    {
+        "nome": "Mobile Web application with JavaScript",
+        "descrizione": "Creazione di applicazioni web con Jquery mobile, introducendo i concetti di usability e analizzando differenti siti mobile first e non.",
+        "docenti": [
+            {
+                "nome": "Thomas",
+                "cognome": "Baggio"
+            },
+            {
+                "nome": "Matteo",
+                "cognome": "Balocco"
+            },
+            {
+                "nome": "Consalvo",
+                "cognome": "Cattuto"
+            },
+            {
+                "nome": "Alessandro",
+                "cognome": "Negrin"
+            }
+        ],
+        "numeroOre": 120,
+        "giorni": [
+            "2014-02-17",
+            "2014-02-18",
+            "2014-02-19",
+            "2014-02-20",
+            "2014-02-21",
+            "2014-02-24",
+            "2014-02-25",
+            "2014-02-26",
+            "2014-02-27",
+            "2014-02-28",
+            "2014-03-03",
+            "2014-03-04",
+            "2014-03-05",
+            "2014-03-06",
+            "2014-03-07"
+        ]
+    },
+
+    {
+        "nome": "PhoneGap/Cordova",
+        "descrizione": "Modulo che prevede la compilazione di applicazioni web per dispositivi mobili compatibili grazie all'utilizzo di Phone Gap e all'emulatore di devices integrato in Chrome.",
+        "docenti": [
+            {
+                "nome": "Consalvo",
+                "cognome": "Cattuto"
+            }
+        ],
+        "numeroOre": 40,
+        "giorni": [
+            "2014-03-10",
+            "2014-03-11",
+            "2014-03-12",
+            "2014-03-13",
+            "2014-03-14"
+        ]
+    },
+
+    {
+        "nome": "Stage",
+        "descrizione": "Sono previsti tre mesi di stage in aziende, selezionate da RedOddity, in tutta Italia.",
+        "docenti": [
+            {
+            }
+        ],
+        "numeroOre": 480,
+        "giorni": [
+            "2014-03-17",
+            "2014-03-18",
+            "2014-03-19",
+            "2014-03-20",
+            "2014-03-21",
+            "2014-03-24",
+            "2014-03-25",
+            "2014-03-26",
+            "2014-03-27",
+            "2014-03-28",
+            "2014-03-31",
+            "2014-04-01",
+            "2014-04-02",
+            "2014-04-03",
+            "2014-04-04",
+            "2014-04-07",
+            "2014-04-08",
+            "2014-04-09",
+            "2014-04-10",
+            "2014-04-11",
+            "2014-04-14",
+            "2014-04-15",
+            "2014-04-16",
+            "2014-04-17",
+            "2014-04-18",
+            "2014-04-22",
+            "2014-04-23",
+            "2014-04-24",
+            "2014-04-28",
+            "2014-04-29",
+            "2014-04-30",
+            "2014-05-02",
+            "2014-05-05",
+            "2014-05-06",
+            "2014-05-07",
+            "2014-05-08",
+            "2014-05-09",
+            "2014-05-12",
+            "2014-05-13",
+            "2014-05-14",
+            "2014-05-15",
+            "2014-05-16",
+            "2014-05-19",
+            "2014-05-20",
+            "2014-05-21",
+            "2014-05-22",
+            "2014-05-23",
+            "2014-05-26",
+            "2014-05-27",
+            "2014-05-28",
+            "2014-05-29",
+            "2014-05-30",
+            "2014-06-02",
+            "2014-06-03",
+            "2014-06-04",
+            "2014-06-05",
+            "2014-06-06",
+            "2014-06-10",
+            "2014-06-11",
+            "2014-06-12"
+        ]
+    }
+]

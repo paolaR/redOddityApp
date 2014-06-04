@@ -1,0 +1,46 @@
+div[data-role="header"]{
+	height: 43px;
+	text-align: center;
+	line-height: 43px;
+}
+
+#header {
+	background-color:#fff;
+	text-align: center;
+	height:60px;
+}
+
+#header a img {
+	width:35px;
+	height:35px;
+	margin-top:-7px;
+	margin-left:-3px;
+}
+
+#header a {
+	background-color:#AC072F;
+	border-radius:6px;
+	width:30px;
+	height:26px;
+	margin-top:6.5px;
+	text-align:center;
+}
+
+#header>img {
+	margin-top:5px;
+}
+
+#footer {
+	width:100%;
+	height:50px;
+	background-color:#AC072F;
+	text-align: center;
+}
+
+#footer p {
+	color:#fff;
+	display: inline-block;
+	font-family: Helvetica;
+	font-size:15px;
+	font-weight:lighter;
+}

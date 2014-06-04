@@ -1,0 +1,136 @@
+{
+	"docenti": [
+		{
+			"nome": "Eugenia",
+			"cognome": "Franzoni",
+			"materie": [
+				"OS Introduction & Jetbrains IDE"
+			],
+			"links": {
+				"sito": "www.catnic.it",
+				"linkedin": "www.linkedin.com/profile/view?id=4898982",
+				"googleplus": "https://plus.google.com/+EugeniaFranzoni"
+			}
+		},
+		{
+			"nome": "Claudio",
+			"cognome": "Brocco",
+			"materie": [
+				"HTML5 & CSS3"
+			],
+			"links": {
+				"sito": "www.ethicalsoftware.it",
+				"twitter": "https://twitter.com/eugeniafranzoni"
+			}
+		},
+		{
+			"nome": "Ivan",
+			"cognome": "Ferrazzi",
+			"materie": [
+				"HTML5 & CSS3",
+				"JavaScript",
+				"PHP & AJAX",
+				"PHP & SQL"
+			],
+			"links": {
+				"sito": "www.ferrazzi.info"
+			}
+		},
+		{
+			"nome": "Consalvo",
+			"cognome": "Cattuto",
+			"materie": [
+				"JavaScript",
+				"Web Application with JavaScript",
+				"PHP & AJAX",
+				"Mobile Web Application with JavaScript",
+				"PhoneGap/Cordova"
+			],
+			"links": {
+				"sito": "www.catnic.it",
+				"linkedin": "http://www.linkedin.com/profile/view?id=35318922",
+				"googleplus": "https://plus.google.com/103684959793670147955"
+			}
+		},
+		{
+			"nome": "Thomas",
+			"cognome": "Baggio",
+			"materie": [
+				"Web Application with JavaScript",
+				"PHP & AJAX",
+				"PHP & SQL",
+				"Mobile Web Application with JavaScript"
+			],
+			"links": {
+				"sito": "http://www.insideabit.com/",
+				"linkedin": "http://www.linkedin.com/profile/view?id=685091",
+				"twitter": "https://twitter.com/thomasbaggio",
+				"googleplus": "https://plus.google.com/104085688552758375311"
+			}
+		},
+		{
+			"nome": "Michele",
+			"cognome": "Riello",
+			"materie": [
+				"Web Application with JavaScript"
+			],
+			"links": {
+				"sito": "http://www.mikyweb.com/",
+				"linkedin": "http://www.linkedin.com/profile/view?id=16836450",
+				"googleplus": "https://plus.google.com/+MicheleRiello",
+				"twitter": "https://twitter.com/riellomichele"
+			}
+		},
+		{
+			"nome": "Christian Anton",
+			"cognome": "Mair",
+			"materie": [
+				"Node.js & JavaScript integration",
+				"MongoDB"
+			],
+			"links": {
+				"sito": "www.1006.org",
+				"googleplus": "https://plus.google.com/+ChrisMair"
+			}
+		},
+		{
+			"nome": "Luca",
+			"cognome": "Mascaro",
+			"materie": [
+				"Responsive Webdesign & UX"
+			],
+			"links": {
+				"sito": "www.lucamascaro.info",
+				"linkedin": "http://www.linkedin.com/in/lucamascaro",
+				"twitter": "https://twitter.com/lucamascaro",
+				"facebook": "www.facebook.com/lucamascaro"
+			}
+		},
+		{
+			"nome": "Matteo",
+			"cognome": "Balocco",
+			"materie": [
+				"Responsive Webdesign & UX",
+				"Mobile Web Application with JavaScript"
+			],
+			"links": {
+				"sito": "www.matteobalocco.it",
+				"linkedin": "http://www.linkedin.com/profile/view?id=3652848",
+				"twitter": "https://twitter.com/matteobalocco",
+				"googleplus": "https://plus.google.com/104218302028592295143"
+			}
+		},
+		{
+			"nome": "Alessandro",
+			"cognome": "Negrin",
+			"materie": [
+				"Mobile Web Application with JavaScript"
+			],
+			"links": {
+				"sito": "http://www.sixdegreesweb.com/sixdegrees/",
+				"linkedin": "http://www.linkedin.com/in/alessandronegrin",
+				"googleplus": "https://plus.google.com/+alessandronegrin"
+			}
+		}
+	]
+}

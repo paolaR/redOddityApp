@@ -1,0 +1,68 @@
+a>img {
+	width: 40px;
+	height: 40px;
+}
+#header {
+	text-align: center;
+	height: 70px;
+	background-color: #fff;
+}
+span>img {
+	margin-top: 8px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+li {
+	height: 100px;
+	font-size: 12px;
+}
+.ui-icon-people {
+	background: url('../icon/people.png') no-repeat top left;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}
+.ui-icon-aim {
+	background: url('../icon/aim.png') no-repeat top left;
+	background-size: 50px 50px;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}
+.ui-icon-cost {
+	background: url('../icon/cost.png') no-repeat top left;
+	background-size: 50px 50px;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}
+.ui-icon-tools {
+	background: url('../icon/tools.png') no-repeat top left;
+	background-size: 50px 50px;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}
+.ui-icon-date {
+	background: url('../icon/date.png') no-repeat top left;
+	background-size: 50px 50px;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}
+.ui-icon-tutor {
+	background: url('../icon/tutor.png') no-repeat top left;
+	background-size: 50px 50px;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}
+.ui-icon-contatti {
+	background: url('../icon/contatti.png') no-repeat top left;
+	background-size: 50px 50px;
+	background-size: 70px;
+	list-style: none;
+	padding-left: 90px;
+}

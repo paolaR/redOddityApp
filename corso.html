@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detagli Corso</title>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="stylesheet"  href="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.css">
+	<link rel="stylesheet" href="css/corso.css">
+        
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.js"></script>
+	<script src="js/mustache.js"></script>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/corso.css">
+    
+</head>
+
+<body>
+    <div data-role="page">
+        <div data-role="header" id="header" data-position="fixed">
+            <a href="index.html"><img src="icon/home1.png"/></a>
+            <img src="icon/red-oddity.jpg" />
+        </div>
+        <div class="ui-content">
+            
+        </div>
+        
+    <script>
+        $("[data-role='page']").on('pagecreate', function(event){
+            $.getJSON("json/corso.json", function(data){
+                console.log(data);
+                var output = Mustache.render(
+                    "<ul>"+
+                    "<li class='ui-icon-people'>{{numeroPartecipanti}}</li>"+
+                    "<li class='ui-icon-aim'>{{obiettivoGenerale}}</li>"+
+                    "<li class='ui-icon-cost'>{{costo}}</li>"+
+                    "<li class='ui-icon-tools'>{{privilegi}}</li>"+
+                    "<li class='ui-icon-date'>"+
+                        "<p>Lezione:{{durataInOre.lezione}}</p>"+
+                        "<p>Stage:{{durataInOre.stage}}</p>"+
+                        "<p>Inizio:{{dataInizio}}</p>"+
+                        "<p>Fine:{{dataFine}}</p>"+
+                    "</li>"+
+                    "<li class='ui-icon-tutor'>"+
+                        "{{#tutor}}"+
+                        "<p><strong>{{nome}}</strong>"+
+                        "<br/>"+
+                        "<span>{{email}}</span>"+
+                        "{{/tutor}}</p>"+
+                    "</li>"+
+                    "<li class='ui-icon-contatti'>"+
+                        "<p>Tel:{{contatti.tel}}</p>"+
+                        "<p>Email:{{contatti.email}}</p>"+
+                    "</li>"+
+                    "</ul>",
+                    data);
+                $(".ui-content").append(output); 
+                })
+        })
+    </script>
+    <div data-role="footer" id="footer" data-position="fixed" id="footer">
+        <p>© 2005-2014 Red Oddity Srl</p>
+    </div>
+    </div>
+
+</body>
+</html>
